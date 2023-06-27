@@ -1,0 +1,16 @@
+{
+  "name": "characters",
+  "version": "1.0.0",
+  "description": "characters from star wars",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Graciana Baratti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
