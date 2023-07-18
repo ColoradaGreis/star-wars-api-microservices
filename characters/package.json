@@ -4,7 +4,8 @@
   "description": "characters from star wars",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Graciana Baratti",
   "license": "ISC",
