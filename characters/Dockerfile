@@ -14,7 +14,7 @@ COPY . .
 # aca decis que tiene que copiar todo el codigo de la carpeta (.) en app (.)
 # COPY fuente-destino
 
-EXPOSE 8000
+EXPOSE 8001
 # aca ponemos el puerto que queremos que "se levante" o se exponga porque ahí es donde se escucha la app
 
 CMD [ "npm", "start" ]
